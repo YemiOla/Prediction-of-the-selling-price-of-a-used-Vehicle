@@ -1,1 +1,1 @@
-# Prediction-of-the-selling-price-of-a-used-Vehicle
+# This project involves predicting the selling price of a used car using various machine learning models such as linear regression, lasso regression, ridge regression, decision tree and random forest algorithms. The dataset is obtained from kaggle. I've uploaded the dataset to this repo. 
